@@ -1,6 +1,6 @@
 '''
 HOW TO READ FROM A FILE
-    CHECK if file is present in teh same folder as your code
+    CHECK if file is present in the same folder as your code
 
 
 We always start by opening a file
